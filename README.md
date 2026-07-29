@@ -1,3 +1,13 @@
+## Preview
+
+![Chess Board](assets/chess.png)
+
+## Gameplay
+
+<p align="center">
+  <img src="assets/gameplay.gif" width="700">
+</p>
+
 Chess Game with AI (Alpha-Beta Pruning)
 
 A desktop chess game developed during my 4th semester as part of my Artificial Intelligence coursework. The project implements a playable chess game with an AI opponent that uses the Minimax algorithm with Alpha-Beta Pruning to efficiently evaluate moves and make intelligent decisions. The graphical interface was built using Pygame, providing an interactive chessboard and smooth gameplay.
