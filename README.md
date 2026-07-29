@@ -5,7 +5,7 @@
 ## Gameplay
 
 <p align="center">
-  <img src="assets/gameplay.gif" width="700">
+  <img src="assets/Gameplay.png" width="700">
 </p>
 
 Chess Game with AI (Alpha-Beta Pruning)
