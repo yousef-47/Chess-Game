@@ -12,11 +12,17 @@ A desktop chess game developed during my 4th semester as part of my Artificial I
 
 Features
 ♟️ Complete chessboard with standard piece setup
+
 🤖 AI opponent powered by Minimax + Alpha-Beta Pruning
+
 🎮 Interactive GUI built with Pygame
+
 ✔️ Legal move generation and validation
+
 🔄 Turn-based gameplay between the player and AI
+
 📈 Optimized search by pruning unnecessary game states, significantly improving AI performance
+
 Technologies Used
 Python
 Pygame
