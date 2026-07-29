@@ -11,6 +11,7 @@ A desktop chess game developed during my 4th semester as part of my Artificial I
 
 
 Features
+
 ♟️ Complete chessboard with standard piece setup
 
 🤖 AI opponent powered by Minimax + Alpha-Beta Pruning
