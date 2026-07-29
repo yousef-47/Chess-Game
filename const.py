@@ -1,0 +1,16 @@
+# Screen dimensions
+WIDTH = 800
+HEIGHT = 800
+
+# Board dimensions
+COLS = 8
+ROWS = 8
+SQSIZE = WIDTH // COLS
+
+# colors
+LIGHT_SQUARE = (234, 235, 200)
+DARK_SQUARE = (119, 154, 88)
+MOVE_DOT_COLOR = '#464646'
+LAST_MOVE_LIGHT = (224, 247, 116)
+LAST_MOVE_DARK = (172, 195, 51)
+
